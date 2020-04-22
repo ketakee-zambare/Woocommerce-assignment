@@ -1,0 +1,8 @@
+2020-03-26T11:53:25+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\header.php on line 26
+
+2020-03-26T11:54:11+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\header.php on line 27
+
+2020-03-26T11:56:59+00:00 CRITICAL syntax error, unexpected 'header' (T_STRING) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\header.php on line 27
+
+2020-03-26T11:58:26+00:00 CRITICAL syntax error, unexpected 'header' (T_STRING) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\header.php on line 34
+

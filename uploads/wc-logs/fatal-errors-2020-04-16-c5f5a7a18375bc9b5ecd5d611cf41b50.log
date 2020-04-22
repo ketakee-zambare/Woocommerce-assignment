@@ -1,0 +1,4 @@
+2020-04-16T08:43:14+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 10
+
+2020-04-16T09:10:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp1\htdocs\woocommerce\wp-includes\wp-db.php on line 2007
+

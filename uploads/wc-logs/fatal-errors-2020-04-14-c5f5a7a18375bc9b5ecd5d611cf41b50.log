@@ -1,0 +1,44 @@
+2020-04-14T11:07:14+00:00 CRITICAL syntax error, unexpected ''http://localhost/woocommerce/' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 47
+
+2020-04-14T11:07:53+00:00 CRITICAL syntax error, unexpected ''http://localhost/woocommerce/' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 47
+
+2020-04-14T11:09:10+00:00 CRITICAL syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 47
+
+2020-04-14T11:09:13+00:00 CRITICAL syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 47
+
+2020-04-14T11:09:22+00:00 CRITICAL syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\functions.php on line 47
+
+2020-04-14T11:23:36+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 10
+
+2020-04-14T11:52:01+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 22
+
+2020-04-14T11:52:58+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T11:55:01+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T12:02:28+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T12:02:54+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T12:03:52+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 112
+
+2020-04-14T12:04:15+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T12:05:54+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T12:08:33+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 62
+
+2020-04-14T14:10:54+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T14:11:27+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 116
+
+2020-04-14T14:15:04+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T14:15:19+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 114
+
+2020-04-14T14:15:56+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 111
+
+2020-04-14T14:16:10+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 60
+
+2020-04-14T14:17:46+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp1\htdocs\woocommerce\wp-content\themes\storefront-child\login.php on line 59
+
